@@ -1,0 +1,30 @@
+# Weights and checkpoints
+checkpoints/
+*.weights
+*.h5
+*.ckpt*
+*.pb
+
+# Datasets
+dataset/
+*.zip
+*.rar
+
+# Python / system clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+Thumbs.db
+
+# Old git data from original/nested repos
+_old_git/
+_old_gitmodules
+
+# Datasets (shared separately)
+custom database 2/
+custom_dataset1/
+
+# Datasets (shared separately)
+custom database 2/
+custom_dataset1/
